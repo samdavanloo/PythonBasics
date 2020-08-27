@@ -230,7 +230,8 @@ adder(3,4)
 
 #%%
 ### Basic matrix algebra
-import numpy as np
+
+import numpy as np   # numpy is a Python library for array operations
 
 print(np.zeros([3,3]))
 print(np.ones([3,3]))
